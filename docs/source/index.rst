@@ -32,5 +32,6 @@ Contents
 .. toctree::
    installation
    Setup
+   walls
    creases
    roofs
