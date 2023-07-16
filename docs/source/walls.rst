@@ -6,10 +6,10 @@ Assign  materials on the faces of your object to control how the system will cre
 
 //insert wall setting image
 
-Wall A and B Material
+Empty Wall A and B Material
 ---------------------
 
-Your building can have 2 kind of wall materials. To control wich one to use, simply apply the corresponding ID material, **ID_EmptyWallA** or **ID_EmptyWallB**
+Your building can have 2 kind of base wall materials. To control wich one to use, simply apply the corresponding ID material, **ID_EmptyWallA** or **ID_EmptyWallB**
 
 //insert empty wall material
 
