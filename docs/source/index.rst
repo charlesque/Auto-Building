@@ -28,6 +28,6 @@ Contents
 --------
 
 .. toctree::
-
+   index
    usage
    api
