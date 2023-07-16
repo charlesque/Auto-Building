@@ -32,4 +32,4 @@ Contents
 .. toctree::
    installation
    Setup
-   Settings
+   walls
