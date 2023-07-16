@@ -33,3 +33,4 @@ Contents
    installation
    Setup
    walls
+   roofs
