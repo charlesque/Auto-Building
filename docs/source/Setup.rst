@@ -1,6 +1,11 @@
 Start
 ========
 
+.. _Setup:
+
+Start Object
+------------
+
 If you want to create your own building style from scratch, it's a very easy process!
 With the addon enabled, simple click on either **Starting Object** or **Example Object** to begin.
 
@@ -17,7 +22,7 @@ The **Example object** will be a bit more complexe. I will comes already setup w
 You can also start the process by grabbing a preset model from the Asset Browser. You can then manually transfer the geometry node modifier and ID materials to the object you want to work on. Or modify the asset you just imported to your own taste.
 
 Parts Modeling
-=============
+------------
 
 The parts used by the system need to be oriented in a specific way in order to work properly. 
 
