@@ -1,4 +1,4 @@
-/* COOL COVER IMAGER */
+.. image:: images/CoverIlustration.jpg
 
 Welcome to the Auto-Building's documentation!
 ===================================
