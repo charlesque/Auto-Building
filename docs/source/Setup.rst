@@ -38,11 +38,7 @@ If you're not sure, a text is added next to the Example Objects and an Orientati
 
 Here is the list of the directions.
 
-Wall Objects:
-Crease Objects:
-Profile:
-Roof Objects:
-Facade Objects:
+.. image:: images/Orientation.jpg
 
 
 
