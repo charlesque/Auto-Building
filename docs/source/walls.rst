@@ -20,12 +20,20 @@ For instance, to use the collection you pick for wall A, simply assign the **ID_
 
 //insert wall options
 For each letter, you can find the the same set of options.
-Select the collection you want to assign on the Wall A materials
+
+Select the collection you want to assign on the Wall A materials.
+
 **Use Boolean** : If this is unchecked, face where the ID_Wall material is assigned will disappear and a random object from the collection will replace it.
+
 **Use wall B material**: By default, the material you setup in the Empty Wall A will be used. This setting will make it use the Empty Wall B instead.
+
 **Seed**:Change this setting to offer another random distribution of your objects.
+
 **Density**: Reduce this number to randomly remove some of the objects.
-**Offset**: Move your objects in or out of the face
+
+**Offset**: Move your objects in or out of the face.
+
 **Deform**: Deform the objects to fit the original face shape.
+
 **Inset**: Option only available if Deform is activated. This option allow to insset the original face before applying the deform. MAking your object smaller.
 
