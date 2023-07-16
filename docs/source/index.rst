@@ -1,4 +1,4 @@
-.. image:: images/CoverIlustration.jpg
+.. image:: docs/images/CoverIlustration.jpg
 
 Welcome to the Auto-Building's documentation!
 ===================================
