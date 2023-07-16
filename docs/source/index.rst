@@ -32,3 +32,4 @@ Contents
 .. toctree::
    installation
    Setup
+   Settings
