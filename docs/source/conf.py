@@ -2,11 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Auto-Building'
+copyright = '2023, Julien Gauthier'
+author = 'Julien Gauthier'
 
-release = '0.1'
+release = '1.0'
 version = '0.1.0'
 
 # -- General configuration
