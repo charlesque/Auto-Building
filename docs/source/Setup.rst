@@ -1,5 +1,6 @@
-Setup
-===
+Building Parts
+========
+
 If you want to create your own building style from scratch, it's a very easy process!
 With the addon enabled, simple click on either **Starting Object** or **Example Object** to begin.
 
@@ -17,6 +18,7 @@ You can also start the process by grabbing a preset model from the Asset Browser
 
 Parts Modeling
 =============
+
 The parts used by the system need to be oriented in a specific way in order to work properly. 
 
 Most of the time you can assume than the top of your objects (Windows, Doors, etc) will oriented toward the positive Y axis, and the front toward the positive Z axis.
