@@ -1,4 +1,4 @@
-Building Parts
+Start
 ========
 
 If you want to create your own building style from scratch, it's a very easy process!
