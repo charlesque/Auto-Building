@@ -37,3 +37,7 @@ Select the collection you want to assign on the Wall A materials.
 
 **Inset**: Option only available if Deform is activated. This option allow to insset the original face before applying the deform. MAking your object smaller.
 
+.. autosummary::
+   :toctree: generated
+
+   lumache
