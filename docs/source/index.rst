@@ -31,4 +31,4 @@ Contents
 
 .. toctree::
    installation
-   api
+   Setup
