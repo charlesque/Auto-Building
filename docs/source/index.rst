@@ -11,7 +11,7 @@ Welcome to the Auto-Building's documentation!
 The system is only using Geometry Node to work but you don't need to have any knowledge in this aspect of Blender to use it.
 
 Introduction
-===================================
+------------------------
 
 The idea is to take a simple low poly mesh and distribute/replace geometries on the faces to create a complex building. 
 Complex, but easier to manipulate and change as everything is handled procedurally by the power of Geometry nodes!
