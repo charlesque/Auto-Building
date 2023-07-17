@@ -17,7 +17,31 @@ Slope
 -------
 Apply the ID_RoofSlope to remove the parapet and scatter Rooftiles objects on it.
 
+**Roof tile** Collection to use for the roof tiles.
 
+**Crease spacing**: Distance of the tiles on the crease edges.
+
+**Coverage**: Scale the roof to be bigger than the original face size.
+
+**Alligned**: If this option is on, will do its best to scatter the tiles on a grid.
+
+**Density X**: Tile Density X
+
+**Density Y**: Tile Density Y
+
+**Random transformation**: Add randomness to your tiles position, rotation and scale.
 
 Modular
 --------
+
+The Modular roof system is in beta but can be useful in some case. It works like Lego blocks.
+The position of the block in the collection is important. And all the blocks needs to have the same cubic dimension. Please look at the Example objects to see how it works.
+Here is the position list:
+0 - Center block
+1 - Side block
+2 - Corner out block
+3 - Corner in block
+
+**Density**: Will add more block to cover the roof, resulting in a denser roof.
+**Coverage**: Scale the roof surface 
+
