@@ -1,5 +1,7 @@
 .. image:: images/CoverIlustration.jpg
 
+.. image:: images/test.gif
+
 Welcome!
 ===================================
 
