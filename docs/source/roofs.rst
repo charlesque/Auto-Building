@@ -46,3 +46,13 @@ Here is the position list:
 
 **Coverage**: Scale the roof surface 
 
+Roof Dressing
+-------------
+**Dressing collection**: Collection of object to use to scatter them on the roof.
+
+**Dressing density**: Density of object to scatter on the roof, the smaller the number the less object .
+
+**Seed**: Randomize scattered object.
+
+**Include Slope**: If you want to keep your objects only on flat roof or include the slopes.
+
