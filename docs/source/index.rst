@@ -35,3 +35,4 @@ Contents
    walls
    creases
    roofs
+   extra
