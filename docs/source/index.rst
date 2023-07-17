@@ -22,7 +22,7 @@ Then you will need to setup the system to go pick the collection you want to use
 
 Now if you assign the same material to any face of your geometry, the objects inside of the same collection will spawn in its center.
 
-/* IMAGE SHOWING COLLECTION AND MATERIAL MATCHING */
+.. image:: images/MainProcess.jpg
 
 A lot more things can be done and this documentation will explain all the settings. Feel free to open the Sample scene to see what's possible and how it works.
 
