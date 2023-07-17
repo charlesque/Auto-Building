@@ -43,5 +43,6 @@ Here is the position list:
 3 - Corner in block
 
 **Density**: Will add more block to cover the roof, resulting in a denser roof.
+
 **Coverage**: Scale the roof surface 
 
