@@ -7,7 +7,7 @@ Welcome!
 Welcome to the Auto-Building's documentation!
 
 .. note::
-**This addon is for Blender 3.5+ only!**
+   **This addon is for Blender 3.5+ only!**
 
 The system is only using Geometry Node to work but you don't need to have any knowledge in this aspect of Blender to use it.
 
