@@ -21,7 +21,7 @@ Here is the list of the directions.
 .. image:: images/Orientation.jpg
 
 Booleans
---------
+~~~~~~~~
 
 .. image:: images/Boolean.jpg
 
