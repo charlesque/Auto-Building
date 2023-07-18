@@ -23,10 +23,13 @@ Change the **Crease** of your edges to either spawn objects on it or extrude it 
 All the different creases (horizontal, vertical, or top edges) use almost the same options.
 The Top Edges is used when the crease if on the toppest edge of the face. Allowing to scatter different kind of object around the top of your building. Under the roof for instance.
 
+.. image:: images/CreaseMenu.jpg
 
-//Insert Menu screenshot
+
 
 **Profile**: Collection containing the profile to use for the extrude. If Crease > 0.5.
+
+.. image:: images/CreaseProfile.jpg
 
 **Object**: Collection containing the objects to spawn along the edges. If Crease < 0.5.
 
