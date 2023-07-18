@@ -28,14 +28,22 @@ Now if you assign the same material to any face of your geometry, the objects in
 A lot more things can be done and this documentation will explain all the settings. Feel free to open the Sample scene to see what's possible and how it works.
 
 
-Contents
---------
-
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🚀 Start
+
    installation
    Setup
    Buildingparts
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 💡 Settings
+
    walls
    creases
    roofs
    extra
+
