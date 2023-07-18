@@ -20,10 +20,3 @@ The **Example object** will be a bit more complexe. I will comes already setup w
 You can also start the process by grabbing a preset model from the Asset Browser. You can then manually transfer the geometry node modifier and ID materials to the object you want to work on. Or modify the asset you just imported to your own taste.
 
 
-
-
-
-.. autosummary::
-   :toctree: generated
-
-   lumache
