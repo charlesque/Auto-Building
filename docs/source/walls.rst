@@ -1,9 +1,9 @@
 Walls
 ===========
 
-.. image:: images/MaterialAssignment.gif
-
 Assign  materials on the faces of your object to control how the system will create your buiding.
+
+.. image:: images/MaterialAssignment.gif
 
 
 Empty Wall A and B Material
