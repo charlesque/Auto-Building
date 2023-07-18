@@ -29,17 +29,15 @@ The parts used by the system need to be oriented in a specific way in order to w
 Most of the time you can assume than the top of your objects (Windows, Doors, etc) will oriented toward the positive Y axis, and the front toward the positive Z axis.
 Similar than the Asset browser orientation system, the Z axis will be used perpendicularly to the surface the object is used on.
 
-//insert orientation image//
+.. image:: images/PartOrientation.jpg
 
 All the parts you will be making need to be put in their own collections. If you put multiple objects in the same collection, the system will pick them randomly in it.
 
-//insert random windows on facade
+.. image:: images/RandomCollectionObject.jpg
 
 Some objects such as for the Roof or Support will have their orientation a bit difference.
 
 If you're not sure, a text is added next to the Example Objects and an Orientation Checker object is here for you to test it.
-
-//insert example object text//
 
 Here is the list of the directions.
 
