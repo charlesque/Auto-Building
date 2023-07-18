@@ -24,4 +24,4 @@ Asset Browser
 
 The system also come with some building exanples for you to use. They are marked as Asset so you can add the Preset blender file in your own asset browser if you wish to access them easily
 
-//INSERT ASSET BROWSER PATH INSTALATION AND WINDOWS//
+.. image:: images/AssetBrowser.jpg
