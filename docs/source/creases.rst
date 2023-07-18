@@ -16,9 +16,6 @@ Change the **Crease** of your edges to either spawn objects on it or extrude it 
 
 **Profile extrude material**: Material to use on the extrude edges.
 
-.. note::
-  The material plugged here needs to be using a Vector attribute called UVMap for it to work properly.
-
 
 All the different creases (horizontal, vertical, or top edges) use almost the same options.
 The Top Edges is used when the crease if on the toppest edge of the face. Allowing to scatter different kind of object around the top of your building. Under the roof for instance.
@@ -37,7 +34,7 @@ The Top Edges is used when the crease if on the toppest edge of the face. Allowi
 
 .. image:: images/CreaseOrder.gif
 
-**Height**: Change the scale of the objects.
+**Height**: Change the length or height of the objects.
 
 .. image:: images/CreaseHeight.gif
 
