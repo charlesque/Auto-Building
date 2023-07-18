@@ -3,6 +3,9 @@ Extra
 
 Foundation
 ------------
+
+.. image:: images/Foundation.gif
+
 If there is a bottom face on your building,it will extrude it down to create a volume under the buiding. Useful if the floor is not flat.
 
 **Foundation extrusion**: Distance of extrusion. Use 0 if you don't want extrusion.
