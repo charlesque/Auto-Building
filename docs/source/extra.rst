@@ -10,7 +10,9 @@ If there is a bottom face on your building,it will extrude it down to create a v
 
 **Foundation extrusion**: Distance of extrusion. Use 0 if you don't want extrusion.
 
-**Foundation material**: Material to use on the foundation.
+''Foundation material''
+
+  Material to use on the foundation.
 
 
 Support
