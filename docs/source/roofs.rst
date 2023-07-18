@@ -9,6 +9,8 @@ Flat
 ------
 Flat roof will automatically appear on the flat top surfaces of your object, however you can force it by applying the **ID_RoofFlat**
 
+.. image:: images/RoofFlat.gif
+
 **Height**: Height offset of the roof.
 **Parapet height**: Height of the parapet.
 **Parapet Thickness**: Thickness of the parapet.
@@ -17,9 +19,13 @@ Slope
 -------
 Apply the ID_RoofSlope to remove the parapet and scatter Rooftiles objects on it.
 
+.. image:: images/RoofCrease.gif
+
 **Roof tile** Collection to use for the roof tiles.
 
 **Crease spacing**: Distance of the tiles on the crease edges.
+
+.. image:: images/RoofGrid.gif
 
 **Coverage**: Scale the roof to be bigger than the original face size.
 
@@ -29,10 +35,14 @@ Apply the ID_RoofSlope to remove the parapet and scatter Rooftiles objects on it
 
 **Density Y**: Tile Density Y
 
+.. image:: images/RoofRandomTransform.gif
+
 **Random transformation**: Add randomness to your tiles position, rotation and scale.
 
 Modular
 --------
+
+.. image:: images/RoofModular.gif
 
 The Modular roof system is in beta but can be useful in some case. It works like Lego blocks.
 The position of the block in the collection is important. And all the blocks needs to have the same cubic dimension. Please look at the Example objects to see how it works.
@@ -48,6 +58,9 @@ Here is the position list:
 
 Roof Dressing
 -------------
+
+.. image:: images/RoofDressing.gif
+
 **Dressing collection**: Collection of object to use to scatter them on the roof.
 
 **Dressing density**: Density of object to scatter on the roof, the smaller the number the less object .
