@@ -9,6 +9,7 @@ Installation
 Auto-Building comes with a custom interface to siplify the creation process.
 To install it, go to:
 **Top menu** -> **Edit** -> **Preferences** -> **Addons** -> **Install**.
+
 Select the Addon zip file and make sure the Auto-Building addon is checked.
 
 .. image:: images/Instalation.jpg
