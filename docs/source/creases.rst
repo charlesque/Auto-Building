@@ -61,7 +61,7 @@ The Top Edges is used when the crease if on the toppest edge of the face. Allowi
 **Fit**: Will scale the objects to avoid any gaps inbetween them. Here is an example with and without the deform option.
 
 .. image:: images/CreaseFit.gif
-.. image:: images/CreaseDeformFit
+.. image:: images/CreaseDeformFit.gif
 
 **Center on edges**: Will spawn an object at the center of each edges. If the option Fit is On, they will be scaled to fit the edge size.
 
