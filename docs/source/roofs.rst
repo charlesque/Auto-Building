@@ -1,6 +1,8 @@
 Roofs
 ============
 
+.. image:: images/RoofMenu.jpg
+
 **Parapet material**: Material to use for the edges of the flat roof.
 
 **Roof material**: Material to use on the flat roof or under the roof tiles.
