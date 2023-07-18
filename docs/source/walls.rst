@@ -71,7 +71,4 @@ Select the collection you want to assign on the Wall A materials.
 
 .. image:: images/WallInset.gif
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
