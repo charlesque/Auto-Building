@@ -12,14 +12,26 @@ If there is a bottom face on your building,it will extrude it down to create a v
 
 Support
 --------
-**Support Collection**: If the bottom face of your building is located above the building origin (if there is an overhang) a support from this collection will appear.
 
-**Fit Edges**: Will stretch the support object to match the size of the edge.
+.. image:: images/SupportPillars.gif
+
+
+**Support Collection**: If the bottom face of your building is located above the building origin (if there is an overhang) a support from this collection will appear.
 
 **Support Pillar subdivision**: If Fit Edge is off, will add more pillars.
 
+
+.. image:: images/SupportPillarsFit.gif
+
+
+**Fit Edges**: Will stretch the support object to match the size of the edge.
+
+
 Facade Dressing
 ---------------
+
+.. image:: images/FacadeScattering.gif
+
 **Facade dressing collection**: Collection of object to scatter on the walls of your building.
 
 **Minimum distance**: Distance between object. The smaller the more object will be scattered.
