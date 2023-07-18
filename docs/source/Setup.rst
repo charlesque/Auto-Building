@@ -9,7 +9,6 @@ Start Object
 If you want to create your own building style from scratch, it's a very easy process!
 With the addon enabled, simple click on either **Starting Object** or **Example Object** to begin.
 
-//Insert Button image//
 
 The **Starting object** will create a simple cube and add the Auto-Building modifier on it as well as all the necessary Materials.
 
