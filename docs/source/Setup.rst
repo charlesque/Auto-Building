@@ -1,10 +1,8 @@
 Start
 ========
 
-.. _Setup:
-
 Start Object
-------------
+~~~~~~~~~~~~~
 
 If you want to create your own building style from scratch, it's a very easy process!
 With the addon enabled, simple click on either **Starting Object** or **Example Object** to begin.
