@@ -24,3 +24,6 @@ Booleans
 --------
 
 .. image:: images/Boolean.jpg
+
+If you want your objects to create a hole in the face (for windows for instance) You'll need to model an extra shape (like a box) combined with your object, and apply the ID_Boolean on it. 
+This shape will be used to boolean a hole in the wall and won't be rendered.
