@@ -40,7 +40,7 @@ A lot more things can be done and this documentation will explain all the settin
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 💡 Settings
+   :caption: 🏠 Settings
 
    walls
    creases
