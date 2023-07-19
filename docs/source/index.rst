@@ -36,7 +36,6 @@ A lot more things can be done and this documentation will explain all the settin
    installation
    Setup
    Buildingparts
-   autobase
 
 .. toctree::
    :maxdepth: 2
@@ -47,6 +46,14 @@ A lot more things can be done and this documentation will explain all the settin
    creases
    roofs
    extra
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: ✨ Other
+
+   autobase
+   baking
 
 .. toctree::
    :maxdepth: 2
