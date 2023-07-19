@@ -30,5 +30,7 @@ Contacts
 If you have any problems or questios you can contact me via:
 
 Email: julien.gauthier.contact@gmail.com
+
 `Twitter <https://twitter.com/julgaimo>`_
+
 `Instagram <https://www.instagram.com/juliengauthierart/>`_
