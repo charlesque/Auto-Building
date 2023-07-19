@@ -14,18 +14,21 @@ Here are my settings using the Simple Bake Addon, but I'm sure it's also doable 
 .. image:: images/Baking1.jpg
 
 2) Create yourself a Preset for easier re-use (I also have one to bake the high poly on the low poly)
+
 Add your object in the Bake objects list.
 Select the textures you'll need in the PBR Bakes list 
 
 .. image:: images/Baking2.jpg
 
 3) Here I'll be baking 4k maps. You'll need to turn on Transparent background because this specific building has transparency in the decals materials.
+
 Make sue to have the **Prefer existing UV maps called SimpleBake**
 In the **Other Settings** tab (not opened in the screenshot), you can turn on the **Copy objects and apply bakes** to get your result as a copy.
 
 .. image:: images/Baking3.jpg
 
 4) Run the baking process byt clicking **Bake!**
+
 Here the decals transparency is not properly dealt with in eevee so I change the Blend Mode of the baked materials to Alpha Hashes to fix it.
 
 .. image:: images/Baking4.jpg
