@@ -27,7 +27,7 @@ Asset Browser
 
 The system also come with some building exanples for you to use. They are marked as Asset so you can add the Preset blender file in your own asset browser if you wish to access them easily.
 
-To install them. Simpluy copy the Auto-Build Preset Blend file to your personal library and create a new file path for your asset browser in your Preferences:
+To install them. Simply copy the Auto-Build Preset Blend file to your personal library and create a new file path for your asset browser in your Preferences:
 
 .. image:: images/AssetBrowser_Install.jpg
 
