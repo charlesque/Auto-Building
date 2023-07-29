@@ -10,7 +10,7 @@ Change the **Crease** of your edges to either spawn objects on it or extrude it 
 
   Quickly change the crease value of the selected edges. For each edges, if the Crease attribute is above 0, it will spawn either objects on it or extrude it following a provided profile.
 
-.. image:: images/CreaseSelectionp.gif
+.. image:: images/CreaseSelection.gif
 
 ``Thickness Multiplier``
 
