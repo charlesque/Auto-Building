@@ -46,6 +46,7 @@ A lot more things can be done and this documentation will explain all the settin
    creases
    roofs
    extra
+   config
 
 .. toctree::
    :maxdepth: 2
