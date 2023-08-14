@@ -1,6 +1,6 @@
 Config
 -----------------
-.. image:: images/PartOrientation.jpg
+.. image:: images/Config.png
 
 Normally you won't need to touch this menu. But it's useful to keep an eye on it if something doesn't work properly. 
 The most comon problem is to have duplicated materials in the scene. With the tool looking for the wrong ones (ie: ID_Boolean.001)
