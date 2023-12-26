@@ -9,6 +9,10 @@ Welcome to the Auto-Building's documentation!
 .. note::
    **This addon is for Blender 3.5+ only!**
 
+
+.. note::
+   **The version 1.2 of the tool have some new features that are not covered by the documentation yet, some menu may differ too. But hopefully they are similar enough to be understood.**
+
 The system is only using Geometry Node to work but you don't need to have any knowledge in this aspect of Blender to use it.
 
 Introduction
