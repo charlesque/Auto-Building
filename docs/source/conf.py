@@ -6,7 +6,7 @@ project = 'Auto-Building'
 copyright = '2023, Julien Gauthier'
 author = 'Julien Gauthier'
 
-release = '1.0'
+release = '1.2'
 version = '0.1.0'
 
 # -- General configuration
@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
