@@ -6,6 +6,7 @@ Creases
 Change the **Crease** of your edges to either spawn objects on it or extrude it to create ledges and details.
 
 **The Update 1.2 adds an extra option for the Crease. The switch between both, A and B, you have to set the Crease value as this**
+
 .. image:: images/Crease1.2.jpg
 
 
